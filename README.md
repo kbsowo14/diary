@@ -1,2 +1,1 @@
-# diary
-my diary
+# My Diary
